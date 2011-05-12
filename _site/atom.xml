@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Andrea "z4r" De Marco</title>
+ <link href="http://z4r.github.com/atom.xml" rel="self"/>
+ <link href="http://z4r.github.com/"/>
+ <updated>2011-05-12T17:35:46+03:00</updated>
+ <id>http://z4r.github.com</id>
+ <author>
+   <name>Andrea "z4r" De Marco</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Your drive in the cloud with Amazon Cloud Drive</title>
+   <link href="http://z4r.github.com/2011/04/your-drive-in-the-cloud-with-amazon-cloud-drive"/>
+   <updated>2011-04-22T00:00:00+03:00</updated>
+   <id>http://z4r.github.com/2011/04/your-drive-in-the-cloud-with-amazon-cloud-drive</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.mariusv.com/up/clouddrive.png&quot;&gt;&lt;img src=&quot;http://www.mariusv.com/up/clouddrive.png&quot; alt=&quot;&quot; title=&quot;Amazon Cloud DRive&quot; width=&quot;235&quot; height=&quot;52&quot; class=&quot;aligncenter size-full wp-image-881&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+With the launch of &lt;a href=&quot;https://www.amazon.com/clouddrive/learnmore&quot;&gt;Cloud Drive&lt;/a&gt; and &lt;a href=&quot;http://www.amazon.com/b?ie=UTF8&amp;node=2658409011&quot;&gt;Cloud Player&lt;/a&gt; , Amazon has jumped the gun and pulled attention away from its rivals Google and Apple.&lt;/p&gt;
+&lt;p&gt;The details of the Cloud Drive service are a dream come true to a lot of geeks: 5GB of storage for free, a great starting point and sufficient for a handful of albums worth of music.&lt;/p&gt;
+&lt;p&gt;If you want another 20GB, all you have to do is buy an album in MP3 format from Amazon (the sad part is that this feature is only for US). The album itself won&amp;#8217;t eat up any of your storage allocation, but simply purchasing it gets you the 20GB upgrade for a year.&lt;/p&gt;
+&lt;p&gt;Want more space? Sure, just buy it. Prices are reasonable, and very easy to remember. Want 20GB? That&amp;#8217;s 20 bucks per year, 50GB is $50/year 100GB is $100/year.&lt;/p&gt;
+&lt;p&gt;What&amp;#8217;s clever about Amazon&amp;#8217;s solution is its likely appeal to a wide variety of customers. It&amp;#8217;s great if you like to own your music, because you still do. It&amp;#8217;s great if you prefer to stream music, because you still can.&lt;/p&gt;
+&lt;p&gt;Nothing&amp;#8217;s really changed, except the place where the music files are kept. They used to be on your computer&amp;#8217;s hard disk. Now they&amp;#8217;re in the cloud. As long as you can still listen to them, who cares where they are?&lt;/p&gt;
+&lt;p&gt;Amazon has reached this point by cleverly investing in its online storage technologies in recent years. It began by innovating with services like S3, a cloud-based storage system for web developers. Now that S3 is successful (and dependable), Amazon&amp;#8217;s taken the next obvious step: open the same network up to consumers, and make it very easy to use.&lt;/p&gt;
+&lt;p&gt;What&amp;#8217;s more, Cloud Drive is aptly named. It&amp;#8217;s not just for music. You can put any files you like up there. It&amp;#8217;s a drive, in the cloud. For me is the ugly &amp;#8220;brother&amp;#8221; of &lt;a href=&quot;http://db.tt/ql5EuYN&quot;&gt;Dropbox&lt;/a&gt;..ugly just because &lt;a href=&quot;https://www.amazon.com/clouddrive/learnmore&quot;&gt;Amazon Cloud Drive&lt;/a&gt; don&amp;#8217;t have Yet a &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; or a sync client, but I still use it and like it :D&lt;/p&gt;
+&lt;p&gt;Amazon&amp;#8217;s launch means we&amp;#8217;ll see Apple and Google unveiling their rival services as soon as they can complete them. Other companies will follow. In a year from now, we&amp;#8217;ll be swimming in cloud drive services.&lt;/p&gt;
+&lt;p&gt;The result? The ever-hastening death of the hard disk. You just won&amp;#8217;t need one any more. New computers will come with solid state drives &amp;#8211; still with many gigabytes of storage space, and each generation cheaper than the one before &amp;#8211; but most people will store most stuff in cloud services. Even backup drives will fade away, because it will be just as effective to copy your data between clouds, and be sure there are multiple copies of it.&lt;/p&gt;
+&lt;p&gt;Another obvious step is yet to come: a multi-purpose Amazon tablet that combines the sleek stylings of the Kindle with the huge storage capacity of Cloud Drive.&lt;/p&gt;
+&lt;p&gt;h7. How could Dropbox compete with Cloud Drive when Amazon prices it below S3?&lt;/p&gt;
+&lt;p&gt;The table below shows prices per month for 2 storage level, 50 GB and 100 GB, which are what Dropbox offers.&lt;/p&gt;
+&lt;p&gt;You will see that Amazon prices Cloud Drive storage at lower prices than Amazon S3. Dropbox use Amazon S3 with standard redundancy as the storage back-end. So, unless they get special prices from Amazon, they will never be able to complete on price with Cloud Drive. This is exactly what Amazon is aiming for with their pricing, I believe.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.mariusv.com/up/amazon_cloud_vs_dropbox.gif&quot;&gt;&lt;img src=&quot;http://www.mariusv.com/up/amazon_cloud_vs_dropbox.gif&quot; alt=&quot;&quot; title=&quot;amazon_cloud_vs_dropbox&quot; width=&quot;504&quot; height=&quot;103&quot; class=&quot;aligncenter size-full wp-image-884&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+Note that Amazon S3 also offers Reduced Redundancy Storage (&lt;span class=&quot;caps&quot;&gt;RRS&lt;/span&gt;), which interestingly is priced very similarly to Cloud Drive. Does that mean Cloud Drive uses &lt;span class=&quot;caps&quot;&gt;RRS&lt;/span&gt;? (99.99% durability, instead of 99.999999999% durability) We don&amp;#8217;t know yet. But it would be a bad surprise if it does.
+&lt;p&gt;Currently, Cloud Drive is only accessible via web, and thus is not yet as widely accessible as Dropbox. However, this could change very quickly if Cloud Drive &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; is made available or if Amazon releases their own client for PC/Mac/Linux/Mobiles.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>In love with my new Kindle 3</title>
+   <link href="http://z4r.github.com/2011/04/in-love-with-my-new-kindle-3"/>
+   <updated>2011-04-21T00:00:00+03:00</updated>
+   <id>http://z4r.github.com/2011/04/in-love-with-my-new-kindle-3</id>
+   <content type="html">&lt;p&gt;When the original Kindle released, I didn’t bite. I decided to wait until version 3. That wait ended this past week. My new &lt;strong&gt;&lt;a href=&quot;http://www.amazon.com/Kindle-Wireless-Reader-Wifi-Graphite/dp/B003DZ1Y8Q/ref=wl_it_dp_o?ie=UTF8&amp;coliid=I184ONRAK0VVFQ&amp;colid=9ZJRDRPK4SXS&quot;&gt;Kindle 3&lt;/a&gt;&lt;/strong&gt; arrived on Thursday. It was worth the wait.&lt;/p&gt;
+&lt;p&gt;To catch some of you up to speed, the Kindle is a wireless reading device. It holds books like an iPod holds music. And, just like an iPod, it does a lot more.&lt;/p&gt;
+&lt;p&gt;At some point in the future, I may share a more comprehensive review of the Kindle. But, for now, let me give my first impressions of the new device.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The size and shape lives up to the hype. It’s very sleek. I can’t believe that this device stores 3,500 books.&lt;/li&gt;
+&lt;li&gt;Although the functionality is relatively intuitive, I’m still finding myself referring back to the user’s guide to learn how to use some of the features.&lt;/li&gt;
+&lt;li&gt;You can read more than books. You can also subscribe to newspapers, magazines and blogs. I’m testing a free trial version of &lt;em&gt;&lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt; Today&lt;/em&gt;. The newspaper is waiting for me on the Kindle when I wake up in the morning. That’s pretty amazing.&lt;/li&gt;
+&lt;li&gt;The wireless functionality is free after you make the initial purchase. And, true to Amazon’s promise, my first book downloaded in less than a minute.&lt;/li&gt;
+&lt;li&gt;The fact that it’s wireless means I can also access the Web. The Kindle becomes a relatively good way to keep up with blogs when I’m on the go. &lt;/li&gt;
+&lt;li&gt;I also wish there was a clock in the top header where the wireless and battery icons are located. I like getting lost in a book, but I also need to know how long I’ve been reading at times.&lt;/li&gt;
+&lt;li&gt;My favorite part of using the Kindle may be the ease of adding highlights and notes to what I’m reading and I can share them with other Kindle users or with my friends on &lt;a href=&quot;http://facebook.com/marius.voila&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;http://twitter.com/abisdemon&quot;&gt;Twitter&lt;/a&gt;. It’s going to make blogging a lot easier, because I can download all my notes to my computer for editing and inclusion into blog posts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After I purchased my first iPod it was only a matter of months before I stopped buying CDs. I can easily see how having the Kindle will likely mean I’ll only purchase and read electronic versions of books going forward. Books are cheaper that way. And, honestly, it’s a lot easier for me to have several books available on my Kindle than trying to carry books around in my book bag when I travel.&lt;/p&gt;
+&lt;p&gt;Just in case you’re curious, Kamelot′s &lt;a href=&quot;http://www.amazon.com/Poetry-For-The-Poisoned/dp/B0041A6J3W/ref=sr_shvl_album_1?ie=UTF8&amp;qid=1302172397&amp;sr=301-1&quot;&gt;&lt;em&gt;Poetry For The Poisoned_&lt;/a&gt; was the first album I downloaded to my iPod. And Sun Tzu’s &lt;a href=&quot;http://www.amazon.com/gp/product/B004NIFPJQ/ref=docs-os-doi_0&quot;&gt;_Art Of War&lt;/em&gt;&lt;/a&gt; was the first book I downloaded to my Kindle 3.&lt;/p&gt;
+&lt;p&gt;Any other Kindle owners out there? What do you have to add to this initial review?&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

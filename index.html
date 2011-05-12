@@ -1,0 +1,19 @@
+---
+layout: layout
+title: "Your Title"
+---
+
+
+<div class="content">
+ <div class="related">
+  <ul>
+  {% for post in site.posts %}
+   <a href="{{ post.url }}">
+    <li>
+      <span>{{ post.date | date: "%B %e, %Y" }}</span> {{ post.title }}
+    </li>
+   </a>
+  {% endfor %}
+  </ul>
+ </div>
+</div>

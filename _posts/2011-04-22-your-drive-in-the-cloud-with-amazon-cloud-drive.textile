@@ -1,0 +1,47 @@
+---
+layout: post
+title: Your drive in the cloud with Amazon Cloud Drive
+categories: 
+- amazon
+- cloud drive
+- cloud player
+- dropbox
+- Personal
+---
+
+<a href="http://www.mariusv.com/up/clouddrive.png"><img src="http://www.mariusv.com/up/clouddrive.png" alt="" title="Amazon Cloud DRive" width="235" height="52" class="aligncenter size-full wp-image-881" /></a>
+With the launch of <a href="https://www.amazon.com/clouddrive/learnmore">Cloud Drive</a> and <a href="http://www.amazon.com/b?ie=UTF8&node=2658409011">Cloud Player</a> , Amazon has jumped the gun and pulled attention away from its rivals Google and Apple.
+
+The details of the Cloud Drive service are a dream come true to a lot of geeks: 5GB of storage for free, a great starting point and sufficient for a handful of albums worth of music.
+
+If you want another 20GB, all you have to do is buy an album in MP3 format from Amazon (the sad part is that this feature is only for US). The album itself won't eat up any of your storage allocation, but simply purchasing it gets you the 20GB upgrade for a year.
+
+Want more space? Sure, just buy it. Prices are reasonable, and very easy to remember. Want 20GB? That's 20 bucks per year, 50GB is $50/year 100GB is $100/year.
+
+What's clever about Amazon's solution is its likely appeal to a wide variety of customers. It's great if you like to own your music, because you still do. It's great if you prefer to stream music, because you still can.
+
+Nothing's really changed, except the place where the music files are kept. They used to be on your computer's hard disk. Now they're in the cloud. As long as you can still listen to them, who cares where they are?
+
+Amazon has reached this point by cleverly investing in its online storage technologies in recent years. It began by innovating with services like S3, a cloud-based storage system for web developers. Now that S3 is successful (and dependable), Amazon's taken the next obvious step: open the same network up to consumers, and make it very easy to use.
+
+What's more, Cloud Drive is aptly named. It's not just for music. You can put any files you like up there. It's a drive, in the cloud. For me is the ugly "brother" of <a href="http://db.tt/ql5EuYN">Dropbox</a>..ugly just because <a href="https://www.amazon.com/clouddrive/learnmore">Amazon Cloud Drive</a> don't have Yet a API or a sync client, but I still use it and like it :D
+
+Amazon's launch means we'll see Apple and Google unveiling their rival services as soon as they can complete them. Other companies will follow. In a year from now, we'll be swimming in cloud drive services.
+
+The result? The ever-hastening death of the hard disk. You just won't need one any more. New computers will come with solid state drives - still with many gigabytes of storage space, and each generation cheaper than the one before - but most people will store most stuff in cloud services. Even backup drives will fade away, because it will be just as effective to copy your data between clouds, and be sure there are multiple copies of it.
+
+Another obvious step is yet to come: a multi-purpose Amazon tablet that combines the sleek stylings of the Kindle with the huge storage capacity of Cloud Drive.
+
+h7. How could Dropbox compete with Cloud Drive when Amazon prices it below S3?
+
+
+
+The table below shows prices per month for 2 storage level, 50 GB and 100 GB, which are what Dropbox offers. 
+
+You will see that Amazon prices Cloud Drive storage at lower prices than Amazon S3. Dropbox use Amazon S3 with standard redundancy as the storage back-end. So, unless they get special prices from Amazon, they will never be able to complete on price with Cloud Drive. This is exactly what Amazon is aiming for with their pricing, I believe.
+
+<a href="http://www.mariusv.com/up/amazon_cloud_vs_dropbox.gif"><img src="http://www.mariusv.com/up/amazon_cloud_vs_dropbox.gif" alt="" title="amazon_cloud_vs_dropbox" width="504" height="103" class="aligncenter size-full wp-image-884" /></a>
+
+ Note that Amazon S3 also offers Reduced Redundancy Storage (RRS), which interestingly is priced very similarly to Cloud Drive. Does that mean Cloud Drive uses RRS? (99.99% durability, instead of 99.999999999% durability) We don't know yet. But it would be a bad surprise if it does.
+
+Currently, Cloud Drive is only accessible via web, and thus is not yet as widely accessible as Dropbox. However, this could change very quickly if Cloud Drive API is made available or if Amazon releases their own client for PC/Mac/Linux/Mobiles.
